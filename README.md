@@ -91,8 +91,6 @@ Agile (JIRA) • CI/CD • Automation • Data Visualization
 
 ---
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula">
-
 
 ### 💬 Fun Fact
 > I believe in building **automation that saves people time** — turning complex problems into elegant, efficient solutions.
