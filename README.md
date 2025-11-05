@@ -45,7 +45,7 @@ Agile (JIRA) • CI/CD • Automation • Data Visualization
 #### 🚗 [Car Rental Management System](https://github.com/Udua-arch/Car-Rentals)
 > A complete web app for managing car bookings and customers efficiently.
 
-**Tech Used:** Python, Flask, SQLite, HTML, CSS  
+**Tech Used:** PHP, HTML, CSS, JSON file-based storage, XAMPP / Apache
 ⭐ *Demonstrates backend CRUD logic, database integration, and form validation.*
 
 ---
@@ -53,7 +53,7 @@ Agile (JIRA) • CI/CD • Automation • Data Visualization
 #### 🧮 [Railway Ticket Management Game](https://github.com/Udua-arch/Railway-Game)
 > A fun simulation project to manage train ticket bookings with logic-based automation.
 
-**Tech Used:** Python (Object-Oriented Programming)  
+**Tech Used:** CSS, JavaScript, HTML
 ⭐ *Highlights OOP concepts and workflow simulation.*
 
 ---
