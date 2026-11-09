@@ -19,7 +19,7 @@
 ### 🛠️ Tech Stack
 
 **Languages:**  
-🐍 Python • ☕ Java • 🐹 GoLang • 💻 C# • 🐚 Bash  
+🐍 Python • ☕ Java • 🐹 GoLang • 💻 C# • 🐚 Bash  • C++
 
 **Frameworks & Tools:**  
 Flask • Spring Boot • Docker • Jenkins • GitHub Actions • PowerShell • Linux  
